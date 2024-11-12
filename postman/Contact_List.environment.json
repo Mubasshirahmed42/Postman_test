@@ -1,0 +1,27 @@
+{
+	"id": "796958fd-4c2d-499d-93b6-619d38a31784",
+	"name": "Contact List",
+	"values": [
+		{
+			"key": "Token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzMwZDMyYjY1YjYxMTAwMTM2ZDg3MWMiLCJpYXQiOjE3MzEyNTM2OTR9.LzmSOIm6cL-5cypRgKzB4M8yw4T-7UOyPWpeCdCWOdA",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Contact_ID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "bearer_token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-11-11T15:05:05.970Z",
+	"_postman_exported_using": "Postman/11.19.0"
+}
